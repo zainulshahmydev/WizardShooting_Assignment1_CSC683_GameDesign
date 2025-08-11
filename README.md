@@ -1,2 +1,17 @@
 # WizardShooting_Assignment1_CSC683_GameDesign
-A 2D wizard shooting game for CSC683 Game Design. Control a wizard, cast magic projectiles, and defeat enemies while avoiding attacks. Features include movement, shooting, collision detection, enemy spawning, and scoring.
+A 2D shooting game developed for Individual Assignment for CSC683 Game Design coursework. Play as a wizard and unleash magical projectiles to defeat enemies, dodge incoming attacks, and survive as long as possible. This project demonstrates fundamental game mechanics such as player movement, shooting, collision detection, and score tracking.
+
+Features:
+
+Smooth 2D player movement and shooting controls
+
+Magical projectile effects
+
+Enemy spawning and difficulty scaling
+
+Collision detection and scoring system
+
+Designed using construct 2
+
+
+Here is the link to playe the game - https://zainulshahmydev.github.io/WizardShooting_Assignment1_CSC683_GameDesign/
