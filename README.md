@@ -15,3 +15,7 @@ Designed using construct 2
 
 
 Here is the link to playe the game - https://zainulshahmydev.github.io/WizardShooting_Assignment1_CSC683_GameDesign/
+
+
+https://github.com/user-attachments/assets/781ede1f-5039-4e6d-8b88-12d132672a8d
+
